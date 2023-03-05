@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(90, 143, 90, 0.625);
+    border: 5px solid green;
+    padding: 10px;
+}
+
+.font-green{
+    color: green;
+}
+
+img{
+    border: 5px solid black;
+    padding: 10px;
+}
+
+.textarea-color{
+    background-color: azure;
+}
